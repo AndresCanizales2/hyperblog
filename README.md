@@ -13,4 +13,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
-Y como un amable recordatorio:  Mejor ve el curos en  [**Platzi**](https://platzi.com/cursos/git-github/ "a ver el curso").:joy:
+Y como un amable recordatorio:  **SI LLEGAS AQUI NO TE LO TOMES EN SERIO EL REPOSITORIO** Mejor ve el curos en  [**Platzi**](https://platzi.com/cursos/git-github/ "a ver el curso").:joy:
